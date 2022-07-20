@@ -1,4 +1,4 @@
-### Hello There!
+### Hello There
 
 ![](https://komarev.com/ghpvc/?username=mike14u)
 
