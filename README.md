@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/ios-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white" height="20px">
   <img src="https://img.shields.io/badge/swift-%23f05035.svg?style=for-the-badge&logo=swift&logoColor=white" height="20px">
   <img src="https://img.shields.io/badge/rust-%23b74103.svg?style=for-the-badge&logo=rust&logoColor=white" height="20px">
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" height="20px">
   <img src="https://img.shields.io/badge/html5-%23E44D26.svg?style=for-the-badge&logo=html5&logoColor=white" height="20px">
   <img src="https://img.shields.io/badge/css3-%232664dde4.svg?style=for-the-badge&logo=css3&logoColor=white" height="20px">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F0DB4F" height="20px">
@@ -73,14 +74,10 @@
 
 A **Software Engineer** with expertise on building mobile applications and its system architecture, I also have good understanding on APIs, database, automated testing & CI/CD. Experienced on diverse industries such as fintech, banking, gaming, healthtech, information technology and many more.
 
-- 👾 Have a product or idea in mind? Let's make it happen! 😉
 - 🗨️ Ask me about **Android** (Kotlin or Java), **iOS** (Swift) and **Mobile App Development** in general.
-- 🏠 Currently prefers work from home and remote setup
-- 🚀 Continuously learning tools such as KMP, Rust, Maestro and different tools to automate CI/CD
+- 🚀 Learning: Kotlin Multiplatform, Compose Multiplatform, Front-end Web Development using ReactJS, Typescript, WASM  and different tools to automate CI/CD pipelines.
 - 👽 Interests (related to tech): automating workflows, design systems and cloud computing.
-- 🛠️ Tools: OSX, Any IntelliJ based IDE, Xcode, Insomnia, zsh.
 - 📫 Reach me at mikeklbusiness@gmail.com
-- 🎮 Outside of development, I play some PC games in Steam!
 - ⭐ Liked my profile? Send some love by starring my [Profile](https://github.com/mikekpl/mikekpl) ReadMe. Feel free to use as reference!
   
 ### Stats
