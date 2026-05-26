@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/copilot-%23000000.svg?style=for-the-badge&logo=githubcopilot&logoColor=white" height="20px">
   <img src="https://img.shields.io/badge/gemini-%23886FBF.svg?style=for-the-badge&logo=googlegemini&logoColor=white" height="20px">
   <img src="https://img.shields.io/badge/zed-%23084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white" height="20px">
-  <img src="https://img.shields.io/badge/windsurf-%230B100F.svg?style=for-the-badge&logo=windsurf&logoColor=white" height="20px">
   <img src="https://custom-icon-badges.demolab.com/badge/claude-%23b74103.svg?style=for-the-badge&logo=claude&logoColor=white" height="20px">
   <img src="https://img.shields.io/badge/cursor-%23000000.svg?style=for-the-badge&logo=cursor&logoColor=white" height="20px">
   <img src="https://custom-icon-badges.demolab.com/badge/java-%23f89820.svg?style=for-the-badge&logo=java&logoColor=white" height="20px">
